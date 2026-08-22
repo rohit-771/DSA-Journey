@@ -68,10 +68,12 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohit-771/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/rohit-771/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/rohit-771/DSA-Journey/tree/master/0566-reshape-the-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/rohit-771/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/rohit-771/DSA-Journey/tree/master/0566-reshape-the-matrix) |
 ## Simulation
 |  |
@@ -95,5 +97,6 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohit-771/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/rohit-771/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
