@@ -102,9 +102,14 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/rohit-771/DSA-Journey/tree/master/0086-partition-list) |
 | [0147-insertion-sort-list](https://github.com/rohit-771/DSA-Journey/tree/master/0147-insertion-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/rohit-771/DSA-Journey/tree/master/0147-insertion-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/rohit-771/DSA-Journey/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
