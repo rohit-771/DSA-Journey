@@ -115,6 +115,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/rohit-771/DSA-Journey/tree/master/0147-insertion-sort-list) |
+| [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,4 +128,16 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
