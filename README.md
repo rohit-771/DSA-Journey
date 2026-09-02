@@ -87,6 +87,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0098-validate-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rohit-771/DSA-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/rohit-771/DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -98,6 +99,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0098-validate-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rohit-771/DSA-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/rohit-771/DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -130,6 +132,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/rohit-771/DSA-Journey/tree/master/0257-binary-tree-paths) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,9 +140,14 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/rohit-771/DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/rohit-771/DSA-Journey/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
