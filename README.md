@@ -88,6 +88,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0102-binary-tree-level-order-traversal](https://github.com/rohit-771/DSA-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/rohit-771/DSA-Journey/tree/master/0257-binary-tree-paths) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/rohit-771/DSA-Journey/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -133,6 +134,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/rohit-771/DSA-Journey/tree/master/0257-binary-tree-paths) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/rohit-771/DSA-Journey/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,4 +152,8 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rohit-771/DSA-Journey/tree/master/0257-binary-tree-paths) |
+## Stack
+|  |
+| ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/rohit-771/DSA-Journey/tree/master/0590-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
