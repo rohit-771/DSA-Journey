@@ -68,6 +68,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohit-771/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/rohit-771/DSA-Journey/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/rohit-771/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0414-third-maximum-number](https://github.com/rohit-771/DSA-Journey/tree/master/0414-third-maximum-number) |
@@ -155,6 +156,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/rohit-771/DSA-Journey/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/rohit-771/DSA-Journey/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
