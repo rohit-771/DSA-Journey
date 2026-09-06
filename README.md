@@ -147,6 +147,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rohit-771/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/rohit-771/DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
@@ -156,6 +157,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rohit-771/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/rohit-771/DSA-Journey/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/rohit-771/DSA-Journey/tree/master/0257-binary-tree-paths) |
 ## Stack
@@ -163,4 +165,12 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rohit-771/DSA-Journey/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0897-increasing-order-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rohit-771/DSA-Journey/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rohit-771/DSA-Journey/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
