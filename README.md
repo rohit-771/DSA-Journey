@@ -93,11 +93,13 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0257-binary-tree-paths](https://github.com/rohit-771/DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rohit-771/DSA-Journey/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rohit-771/DSA-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rohit-771/DSA-Journey/tree/master/0102-binary-tree-level-order-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rohit-771/DSA-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -106,6 +108,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/rohit-771/DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rohit-771/DSA-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
@@ -115,6 +118,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0098-validate-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rohit-771/DSA-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0897-increasing-order-search-tree) |
 ## Linked List
 |  |
@@ -141,6 +145,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0098-validate-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/rohit-771/DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rohit-771/DSA-Journey/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/rohit-771/DSA-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0897-increasing-order-search-tree) |
 ## Hash Table
 |  |
