@@ -74,6 +74,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0140-word-break-ii](https://github.com/rohit-771/DSA-Journey/tree/master/0140-word-break-ii) |
 | [0414-third-maximum-number](https://github.com/rohit-771/DSA-Journey/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/rohit-771/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/rohit-771/DSA-Journey/tree/master/0566-reshape-the-matrix) |
 ## Matrix
 |  |
@@ -155,6 +156,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | ------- |
 | [0140-word-break-ii](https://github.com/rohit-771/DSA-Journey/tree/master/0140-word-break-ii) |
 | [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/rohit-771/DSA-Journey/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -177,6 +179,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/rohit-771/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rohit-771/DSA-Journey/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0897-increasing-order-search-tree) |
 ## Dynamic Programming
@@ -205,4 +208,8 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rohit-771/DSA-Journey/tree/master/0096-unique-binary-search-trees) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/rohit-771/DSA-Journey/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
