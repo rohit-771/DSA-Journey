@@ -159,6 +159,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/rohit-771/DSA-Journey/tree/master/0140-word-break-ii) |
+| [0383-ransom-note](https://github.com/rohit-771/DSA-Journey/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/rohit-771/DSA-Journey/tree/master/0496-next-greater-element-i) |
 ## String
@@ -167,6 +168,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0022-generate-parentheses](https://github.com/rohit-771/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0140-word-break-ii](https://github.com/rohit-771/DSA-Journey/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/rohit-771/DSA-Journey/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/rohit-771/DSA-Journey/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -216,4 +218,8 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rohit-771/DSA-Journey/tree/master/0496-next-greater-element-i) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/rohit-771/DSA-Journey/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
