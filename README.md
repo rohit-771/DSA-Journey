@@ -171,6 +171,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0383-ransom-note](https://github.com/rohit-771/DSA-Journey/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/rohit-771/DSA-Journey/tree/master/0434-number-of-segments-in-a-string) |
+| [0520-detect-capital](https://github.com/rohit-771/DSA-Journey/tree/master/0520-detect-capital) |
 ## Bit Manipulation
 |  |
 | ------- |
