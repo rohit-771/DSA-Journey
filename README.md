@@ -179,6 +179,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/rohit-771/DSA-Journey/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/rohit-771/DSA-Journey/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/rohit-771/DSA-Journey/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -235,4 +236,8 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit-771/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/rohit-771/DSA-Journey/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
