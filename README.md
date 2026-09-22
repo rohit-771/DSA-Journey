@@ -166,6 +166,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohit-771/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0140-word-break-ii](https://github.com/rohit-771/DSA-Journey/tree/master/0140-word-break-ii) |
 | [0383-ransom-note](https://github.com/rohit-771/DSA-Journey/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rohit-771/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/rohit-771/DSA-Journey/tree/master/0496-next-greater-element-i) |
 ## String
@@ -176,6 +177,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0140-word-break-ii](https://github.com/rohit-771/DSA-Journey/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/rohit-771/DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/rohit-771/DSA-Journey/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rohit-771/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/rohit-771/DSA-Journey/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/rohit-771/DSA-Journey/tree/master/0520-detect-capital) |
@@ -232,6 +234,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/rohit-771/DSA-Journey/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rohit-771/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -240,4 +243,8 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/rohit-771/DSA-Journey/tree/master/0796-rotate-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rohit-771/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
