@@ -146,6 +146,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/rohit-771/DSA-Journey/tree/master/0086-partition-list) |
+| [0696-count-binary-substrings](https://github.com/rohit-771/DSA-Journey/tree/master/0696-count-binary-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -181,6 +182,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/rohit-771/DSA-Journey/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/rohit-771/DSA-Journey/tree/master/0520-detect-capital) |
+| [0696-count-binary-substrings](https://github.com/rohit-771/DSA-Journey/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/rohit-771/DSA-Journey/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
