@@ -76,6 +76,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0414-third-maximum-number](https://github.com/rohit-771/DSA-Journey/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/rohit-771/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/rohit-771/DSA-Journey/tree/master/0566-reshape-the-matrix) |
+| [0819-most-common-word](https://github.com/rohit-771/DSA-Journey/tree/master/0819-most-common-word) |
 ## Matrix
 |  |
 | ------- |
@@ -170,6 +171,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0387-first-unique-character-in-a-string](https://github.com/rohit-771/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/rohit-771/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0819-most-common-word](https://github.com/rohit-771/DSA-Journey/tree/master/0819-most-common-word) |
 ## String
 |  |
 | ------- |
@@ -184,6 +186,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0520-detect-capital](https://github.com/rohit-771/DSA-Journey/tree/master/0520-detect-capital) |
 | [0696-count-binary-substrings](https://github.com/rohit-771/DSA-Journey/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/rohit-771/DSA-Journey/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/rohit-771/DSA-Journey/tree/master/0819-most-common-word) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -237,6 +240,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | ------- |
 | [0383-ransom-note](https://github.com/rohit-771/DSA-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rohit-771/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/rohit-771/DSA-Journey/tree/master/0819-most-common-word) |
 ## Sliding Window
 |  |
 | ------- |
