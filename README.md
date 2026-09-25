@@ -187,6 +187,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0696-count-binary-substrings](https://github.com/rohit-771/DSA-Journey/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/rohit-771/DSA-Journey/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/rohit-771/DSA-Journey/tree/master/0819-most-common-word) |
+| [1154-day-of-the-year](https://github.com/rohit-771/DSA-Journey/tree/master/1154-day-of-the-year) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -231,6 +232,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rohit-771/DSA-Journey/tree/master/0096-unique-binary-search-trees) |
+| [1154-day-of-the-year](https://github.com/rohit-771/DSA-Journey/tree/master/1154-day-of-the-year) |
 ## Monotonic Stack
 |  |
 | ------- |
