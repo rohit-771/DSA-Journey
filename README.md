@@ -187,6 +187,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0696-count-binary-substrings](https://github.com/rohit-771/DSA-Journey/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/rohit-771/DSA-Journey/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/rohit-771/DSA-Journey/tree/master/0819-most-common-word) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohit-771/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/rohit-771/DSA-Journey/tree/master/1154-day-of-the-year) |
 ## Bit Manipulation
 |  |
@@ -206,6 +207,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0496-next-greater-element-i](https://github.com/rohit-771/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rohit-771/DSA-Journey/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0897-increasing-order-search-tree) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohit-771/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
