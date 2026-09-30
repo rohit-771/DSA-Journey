@@ -219,6 +219,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0022-generate-parentheses](https://github.com/rohit-771/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/rohit-771/DSA-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0140-word-break-ii](https://github.com/rohit-771/DSA-Journey/tree/master/0140-word-break-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/rohit-771/DSA-Journey/tree/master/1137-n-th-tribonacci-number) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -231,6 +232,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/rohit-771/DSA-Journey/tree/master/0140-word-break-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/rohit-771/DSA-Journey/tree/master/1137-n-th-tribonacci-number) |
 ## Algorithm X
 |  |
 | ------- |
@@ -239,6 +241,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rohit-771/DSA-Journey/tree/master/0096-unique-binary-search-trees) |
+| [1137-n-th-tribonacci-number](https://github.com/rohit-771/DSA-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/rohit-771/DSA-Journey/tree/master/1154-day-of-the-year) |
 ## Monotonic Stack
 |  |
