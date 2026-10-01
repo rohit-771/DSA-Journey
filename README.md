@@ -76,6 +76,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0414-third-maximum-number](https://github.com/rohit-771/DSA-Journey/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/rohit-771/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/rohit-771/DSA-Journey/tree/master/0566-reshape-the-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/rohit-771/DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0819-most-common-word](https://github.com/rohit-771/DSA-Journey/tree/master/0819-most-common-word) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/rohit-771/DSA-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rohit-771/DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -219,6 +220,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0022-generate-parentheses](https://github.com/rohit-771/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/rohit-771/DSA-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0140-word-break-ii](https://github.com/rohit-771/DSA-Journey/tree/master/0140-word-break-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/rohit-771/DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/rohit-771/DSA-Journey/tree/master/1137-n-th-tribonacci-number) |
 ## Bracket Sequences
 |  |
