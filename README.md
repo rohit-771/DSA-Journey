@@ -74,6 +74,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0140-word-break-ii](https://github.com/rohit-771/DSA-Journey/tree/master/0140-word-break-ii) |
 | [0414-third-maximum-number](https://github.com/rohit-771/DSA-Journey/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/rohit-771/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rohit-771/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/rohit-771/DSA-Journey/tree/master/0566-reshape-the-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/rohit-771/DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
