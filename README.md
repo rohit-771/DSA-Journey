@@ -72,6 +72,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0051-n-queens](https://github.com/rohit-771/DSA-Journey/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/rohit-771/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rohit-771/DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/rohit-771/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0140-word-break-ii](https://github.com/rohit-771/DSA-Journey/tree/master/0140-word-break-ii) |
 | [0414-third-maximum-number](https://github.com/rohit-771/DSA-Journey/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/rohit-771/DSA-Journey/tree/master/0485-max-consecutive-ones) |
@@ -220,6 +221,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | ------- |
 | [0022-generate-parentheses](https://github.com/rohit-771/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/rohit-771/DSA-Journey/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/rohit-771/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0140-word-break-ii](https://github.com/rohit-771/DSA-Journey/tree/master/0140-word-break-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/rohit-771/DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/rohit-771/DSA-Journey/tree/master/1137-n-th-tribonacci-number) |
