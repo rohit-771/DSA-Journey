@@ -81,6 +81,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0746-min-cost-climbing-stairs](https://github.com/rohit-771/DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0819-most-common-word](https://github.com/rohit-771/DSA-Journey/tree/master/0819-most-common-word) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit-771/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/rohit-771/DSA-Journey/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/rohit-771/DSA-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rohit-771/DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Matrix
@@ -156,6 +157,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0086-partition-list](https://github.com/rohit-771/DSA-Journey/tree/master/0086-partition-list) |
 | [0696-count-binary-substrings](https://github.com/rohit-771/DSA-Journey/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit-771/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/rohit-771/DSA-Journey/tree/master/1089-duplicate-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
