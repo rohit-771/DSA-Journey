@@ -80,6 +80,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0566-reshape-the-matrix](https://github.com/rohit-771/DSA-Journey/tree/master/0566-reshape-the-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/rohit-771/DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0819-most-common-word](https://github.com/rohit-771/DSA-Journey/tree/master/0819-most-common-word) |
+| [0896-monotonic-array](https://github.com/rohit-771/DSA-Journey/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit-771/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/rohit-771/DSA-Journey/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/rohit-771/DSA-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
