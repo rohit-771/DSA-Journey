@@ -75,6 +75,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0118-pascals-triangle](https://github.com/rohit-771/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0140-word-break-ii](https://github.com/rohit-771/DSA-Journey/tree/master/0140-word-break-ii) |
 | [0414-third-maximum-number](https://github.com/rohit-771/DSA-Journey/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/rohit-771/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rohit-771/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rohit-771/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/rohit-771/DSA-Journey/tree/master/0566-reshape-the-matrix) |
@@ -151,11 +152,13 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0147-insertion-sort-list](https://github.com/rohit-771/DSA-Journey/tree/master/0147-insertion-sort-list) |
 | [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rohit-771/DSA-Journey/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/rohit-771/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit-771/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/rohit-771/DSA-Journey/tree/master/0086-partition-list) |
+| [0455-assign-cookies](https://github.com/rohit-771/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/rohit-771/DSA-Journey/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit-771/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/rohit-771/DSA-Journey/tree/master/1089-duplicate-zeros) |
@@ -281,4 +284,12 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rohit-771/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/rohit-771/DSA-Journey/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/rohit-771/DSA-Journey/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
