@@ -75,6 +75,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0118-pascals-triangle](https://github.com/rohit-771/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0140-word-break-ii](https://github.com/rohit-771/DSA-Journey/tree/master/0140-word-break-ii) |
 | [0414-third-maximum-number](https://github.com/rohit-771/DSA-Journey/tree/master/0414-third-maximum-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rohit-771/DSA-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rohit-771/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rohit-771/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rohit-771/DSA-Journey/tree/master/0496-next-greater-element-i) |
@@ -153,6 +154,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0147-insertion-sort-list](https://github.com/rohit-771/DSA-Journey/tree/master/0147-insertion-sort-list) |
 | [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rohit-771/DSA-Journey/tree/master/0414-third-maximum-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rohit-771/DSA-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rohit-771/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit-771/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -288,6 +290,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rohit-771/DSA-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rohit-771/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/rohit-771/DSA-Journey/tree/master/0860-lemonade-change) |
 ## Quicksort
