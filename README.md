@@ -87,6 +87,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0977-squares-of-a-sorted-array](https://github.com/rohit-771/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/rohit-771/DSA-Journey/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/rohit-771/DSA-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/rohit-771/DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rohit-771/DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Matrix
 |  |
@@ -157,6 +158,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rohit-771/DSA-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rohit-771/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit-771/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/rohit-771/DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Two Pointers
 |  |
 | ------- |
@@ -293,8 +295,13 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rohit-771/DSA-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rohit-771/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/rohit-771/DSA-Journey/tree/master/0860-lemonade-change) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/rohit-771/DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/rohit-771/DSA-Journey/tree/master/0455-assign-cookies) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/rohit-771/DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
