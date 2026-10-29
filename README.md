@@ -87,6 +87,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0977-squares-of-a-sorted-array](https://github.com/rohit-771/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/rohit-771/DSA-Journey/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/rohit-771/DSA-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1338-reduce-array-size-to-the-half](https://github.com/rohit-771/DSA-Journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/rohit-771/DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rohit-771/DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rohit-771/DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -160,6 +161,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rohit-771/DSA-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rohit-771/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit-771/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/rohit-771/DSA-Journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/rohit-771/DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rohit-771/DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
@@ -198,6 +200,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0819-most-common-word](https://github.com/rohit-771/DSA-Journey/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/rohit-771/DSA-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/rohit-771/DSA-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1338-reduce-array-size-to-the-half](https://github.com/rohit-771/DSA-Journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rohit-771/DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
@@ -302,6 +305,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rohit-771/DSA-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rohit-771/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/rohit-771/DSA-Journey/tree/master/0860-lemonade-change) |
+| [1338-reduce-array-size-to-the-half](https://github.com/rohit-771/DSA-Journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/rohit-771/DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rohit-771/DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Quicksort
@@ -312,6 +316,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rohit-771/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
+| [1338-reduce-array-size-to-the-half](https://github.com/rohit-771/DSA-Journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/rohit-771/DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Bucket Sort
 |  |
