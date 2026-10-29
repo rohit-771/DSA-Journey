@@ -89,6 +89,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/rohit-771/DSA-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/rohit-771/DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rohit-771/DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/rohit-771/DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Matrix
 |  |
 | ------- |
@@ -159,6 +160,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0455-assign-cookies](https://github.com/rohit-771/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit-771/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/rohit-771/DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/rohit-771/DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +169,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0696-count-binary-substrings](https://github.com/rohit-771/DSA-Journey/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit-771/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/rohit-771/DSA-Journey/tree/master/1089-duplicate-zeros) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/rohit-771/DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -296,6 +299,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0455-assign-cookies](https://github.com/rohit-771/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/rohit-771/DSA-Journey/tree/master/0860-lemonade-change) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/rohit-771/DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/rohit-771/DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Quicksort
 |  |
 | ------- |
