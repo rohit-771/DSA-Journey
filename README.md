@@ -156,6 +156,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0147-insertion-sort-list](https://github.com/rohit-771/DSA-Journey/tree/master/0147-insertion-sort-list) |
 | [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rohit-771/DSA-Journey/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/rohit-771/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rohit-771/DSA-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rohit-771/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohit-771/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -192,6 +193,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0383-ransom-note](https://github.com/rohit-771/DSA-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rohit-771/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/rohit-771/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/rohit-771/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0819-most-common-word](https://github.com/rohit-771/DSA-Journey/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/rohit-771/DSA-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -208,6 +210,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0387-first-unique-character-in-a-string](https://github.com/rohit-771/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rohit-771/DSA-Journey/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/rohit-771/DSA-Journey/tree/master/0434-number-of-segments-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/rohit-771/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/rohit-771/DSA-Journey/tree/master/0520-detect-capital) |
 | [0696-count-binary-substrings](https://github.com/rohit-771/DSA-Journey/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/rohit-771/DSA-Journey/tree/master/0796-rotate-string) |
@@ -276,6 +279,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | ------- |
 | [0383-ransom-note](https://github.com/rohit-771/DSA-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rohit-771/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/rohit-771/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/rohit-771/DSA-Journey/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/rohit-771/DSA-Journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/rohit-771/DSA-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -307,5 +311,10 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rohit-771/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/rohit-771/DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rohit-771/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
