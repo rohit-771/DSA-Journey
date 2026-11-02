@@ -91,6 +91,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/rohit-771/DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/rohit-771/DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rohit-771/DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2611-mice-and-cheese](https://github.com/rohit-771/DSA-Journey/tree/master/2611-mice-and-cheese) |
 ## Matrix
 |  |
 | ------- |
@@ -164,6 +165,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [1338-reduce-array-size-to-the-half](https://github.com/rohit-771/DSA-Journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/rohit-771/DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rohit-771/DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2611-mice-and-cheese](https://github.com/rohit-771/DSA-Journey/tree/master/2611-mice-and-cheese) |
 ## Two Pointers
 |  |
 | ------- |
@@ -309,6 +311,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [1338-reduce-array-size-to-the-half](https://github.com/rohit-771/DSA-Journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/rohit-771/DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rohit-771/DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2611-mice-and-cheese](https://github.com/rohit-771/DSA-Journey/tree/master/2611-mice-and-cheese) |
 ## Quicksort
 |  |
 | ------- |
@@ -319,6 +322,7 @@ This repository represents my ongoing journey in Data Structures and Algorithms.
 | [0451-sort-characters-by-frequency](https://github.com/rohit-771/DSA-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [1338-reduce-array-size-to-the-half](https://github.com/rohit-771/DSA-Journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/rohit-771/DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [2611-mice-and-cheese](https://github.com/rohit-771/DSA-Journey/tree/master/2611-mice-and-cheese) |
 ## Bucket Sort
 |  |
 | ------- |
